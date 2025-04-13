@@ -1,0 +1,3 @@
+---
+- hosts: localhost
+- import_playbook: nektos/up.yaml
